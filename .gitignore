@@ -1,0 +1,4 @@
+__pycache__
+# for privacy purposes
+*.ics
+credentials.json
