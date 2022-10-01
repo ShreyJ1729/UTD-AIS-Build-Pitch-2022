@@ -1,5 +1,5 @@
 # FreeTime
-A collaborative calendar app to make group scheduling easier
+A collaborative calendar app to make group scheduling easier.
 
 Figma: https://www.figma.com/file/0ilVy2eUceoZXJvIri4rZd/Free-Time?node-id=0%3A1
 
